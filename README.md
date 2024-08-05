@@ -160,6 +160,7 @@ def generate_from_upload(uploaded_image):
 
 • numpy
 
+## Youtube Link (Video Demo)
 
 
 ## Notes
