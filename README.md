@@ -87,6 +87,8 @@ iface.launch(share=True, debug=True)
 
 ## Custom Dataset
 
+Dataset Link: https://youtu.be/pkkFaMoNYwY
+
 The CustomDataset class is used to load images from a specified directory:
 
 class CustomDataset(Dataset):
@@ -162,6 +164,7 @@ def generate_from_upload(uploaded_image):
 
 ## Youtube Link (Video Demo)
 
+Link: https://youtu.be/pkkFaMoNYwY
 
 ## Notes
 
